@@ -1,5 +1,5 @@
 # Search-Bias-Evaluation
-Information Retrieval Journal 2020 - Evaluation metrics for measuring bias in search engine results
+**Information Retrieval Journal 2020 - Evaluation metrics for measuring bias in search engine results**
 
 This is the dataset that was used for search bias evaluation in the paper.
 
